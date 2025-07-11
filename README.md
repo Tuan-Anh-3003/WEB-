@@ -91,13 +91,21 @@ Link tải: https://www.postman.com/
 
 ## Cách chạy chương trình 
 B1: Mở cmd chạy đến đường dẫn có chứa file "shopapp-angular"
+
 <img width="703" height="182" alt="image" src="https://github.com/user-attachments/assets/714bfcd4-82aa-4cad-94a4-87f54a63e1f7" />
+
 B2: Nhập "yarn start" để chạy chương trình
+
 <img width="806" height="397" alt="image" src="https://github.com/user-attachments/assets/08dd148e-4184-40f8-9f22-da5fdd5ca350" />
+
+sao chép đường link localhost để mở trang web
+
 B3: Mở các giao diện 
 Tại 2 file app.module.ts và index.html 
 Khi mở giao diện nào thì bỏ comment dòng đó (ví dụ như mở giao diện trang home như trong hình)
+
 <img width="653" height="354" alt="image" src="https://github.com/user-attachments/assets/eeeff3d6-65a6-4f00-914b-ef84b26f04e0" />
+
 <img width="610" height="289" alt="image" src="https://github.com/user-attachments/assets/0f8a0dc6-b252-43f4-8f83-cb8993fc09cc" />
 
 ***Giao diện trang 
