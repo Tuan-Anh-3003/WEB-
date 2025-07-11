@@ -35,6 +35,12 @@
 - XAMPP (tuỳ chọn)
 
 ### 1. Cài đặt 
+###  Clone project
+
+```bash
+git clone https://github.com/your-username/shopapp-angular.git
+cd shopapp-angular
+```
 *Front-end
 - Cài đặt node.js 
 https://nodejs.org/en/download Vào link sau và tải xuống
