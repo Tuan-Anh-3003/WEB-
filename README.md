@@ -40,6 +40,9 @@
 ```bash
 git clone https://github.com/your-username/shopapp-angular.git
 cd shopapp-angular
+
+git clone https://github.com/your-username/shopapp-backend.git
+cd shopapp-backend
 ```
 *Front-end
 - Cài đặt node.js 
@@ -126,6 +129,37 @@ Khi mở giao diện nào thì bỏ comment dòng đó (ví dụ như mở giao 
 ***  Thiết lập & Quản lý Cơ sở dữ liệu (MySQL qua XAMPP)
 
 <img width="775" height="336" alt="image" src="https://github.com/user-attachments/assets/25849178-b46a-4052-8695-18ce520f869c" />
+
+
+
+---
+
+## 🔗 Tham khảo & Cảm hứng
+
+Dự án này được xây dựng với mục tiêu học tập và thực hành, có tham khảo từ nhiều nguồn tài liệu uy tín bao gồm:
+
+- Các bài hướng dẫn Angular và Spring Boot trên YouTube, w3schools, freeCodeCamp, Java Guides, etc.
+- Tài liệu chính thức từ [Angular](https://angular.io/docs), [Spring Boot](https://spring.io/guides), và [MySQL](https://dev.mysql.com/doc/).
+- Các mẫu thiết kế và UX/UI từ Figma, Dribbble.
+- Cộng đồng hỗ trợ lập trình: StackOverflow, GitHub Discussions, dev.to
+- 
+
+Các chức năng và cấu trúc code được tự triển khai lại từ những kiến thức học được, đồng thời có chỉnh sửa và mở rộng cho phù hợp với mục đích và yêu cầu đề tài.
+
+---
+
+## ⚠️ Ghi chú
+
+- Dự án đã hoàn thiện **chức năng cơ bản** như: quản lý sản phẩm, giỏ hàng, đặt hàng, xác thực người dùng bằng JWT,...
+- Chưa bao gồm chức năng nâng cao như gửi email, thanh toán trực tuyến hoặc quản trị nhiều cấp.
+- Phù hợp cho sinh viên, học viên hoặc người mới bắt đầu tìm hiểu về mô hình Angular + Spring Boot + MySQL.
+- Nguồn tham khảo: https://www.youtube.com/@hoangnc113
+
+---
+
+Dự án mang tính học thuật, phi lợi nhuận, được chia sẻ công khai với mục tiêu học tập và cộng đồng. Nếu bạn muốn sử dụng lại, triển khai hoặc phát triển thêm trên nền dự án, vui lòng ghi nguồn hoặc fork đúng cách. Xin cảm ơn!
+
+
 
 
 
